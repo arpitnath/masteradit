@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my public projects are available on **[Github](https://github.com/masteradit)**
 
-- 📝 I write articles on **[Medium](https://medium.com/@masteradit)**
+- 📝 I write articles on **[Medium](https://medium.com/@aditluhadia)**
 
 - 💬 Ask me about **Flutter**
 
@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/aditluhadia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aditluhadia" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7608627" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7608627" height="30" width="40" /></a>
 <a href="https://instagram.com/aditluhadia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aditluhadia" height="30" width="40" /></a>
-<a href="https://medium.com/@masteradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@masteradit" height="30" width="40" /></a>
+<a href="https://medium.com/@aditluhadia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@masteradit" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/masteradit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="masteradit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aditluhadia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aditluhadia" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aditluhadia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aditluhadia" height="30" width="40" /></a>
