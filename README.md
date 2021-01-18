@@ -8,6 +8,8 @@
 [![Instagram: aditluhadia](https://img.shields.io/badge/-aditluhadia-purple?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/aditluhadia/)](https://instagram.com/aditluhadia/)
 <!--[![Twitter: aditluhadia](https://img.shields.io/twitter/follow/aditluhadia?style=social)](https://twitter.com/aditluhadia)-->
 
+[![Buy me a coffee](https://github.com/masteradit/masteradit/blob/master/images/bmc-button.png)](https://www.buymeacoffee.com/aditluhadia)
+
 - 🔭 I’m currently working on **[Allmity](https://play.google.com/store/apps/details?id=com.allmityapp.allmityapp), Kalpataru and Sociio apps**
 
 - 🌱 I’m currently learning **C++**
