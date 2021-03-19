@@ -26,7 +26,7 @@
 
 ### 📕 Latest Blogs Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Change Flutter app theme based on device settings](https://medium.com/@aditluhadia/change-flutter-app-theme-based-on-device-settings-139d0c32b4a8?source=rss-f91aa4c1135f------2)
+- [Change Flutter app theme based on device settings](https://aditluhadia.medium.com/change-flutter-app-theme-based-on-device-settings-139d0c32b4a8?source=rss-f91aa4c1135f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🤝 Connect with me:</h3>
