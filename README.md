@@ -2,14 +2,14 @@
 <h3 align="center">A student and passionate Flutter developer from India</h3>
 
 [![Github Profile Views: masteradit](https://komarev.com/ghpvc/?username=masteradit&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/masteradit)
-<!-- [![Github: masteradit](https://img.shields.io/github/followers/masteradit?label=Follow&style=social)](https://github.com/masteradit)
-[![Github Profile Stars: masteradit](https://img.shields.io/github/stars/masteradit?style=social)](https://github.com/masteradit) -->
 [![Github: masteradit](https://img.shields.io/badge/-masteradit-222222?style=flat&logo=Github&logoColor=white&link=https://github.com/masteradit/)](https://github.com/masteradit/)
 [![Linkedin: aditluhadia](https://img.shields.io/badge/-aditluhadia-0A66C1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditluhadia/)](https://www.linkedin.com/in/aditluhadia/)
 [![Instagram: aditluhadia](https://img.shields.io/badge/-aditluhadia-D63085?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/aditluhadia/)](https://instagram.com/aditluhadia/)
 [![Twitter: aditluhadia](https://img.shields.io/badge/-aditluhadia-1CA0F1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/aditluhadia/)](https://twitter.com/aditluhadia/)
 [![Medium: aditluhadia](https://img.shields.io/badge/-aditluhadia-292929?style=flat&logo=Medium&logoColor=white&link=https://aditluhadia.medium.com/)](https://aditluhadia.medium.com/)
 [![Gmail: aditluhadia](https://img.shields.io/badge/-aditluhadia-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:aditluhadia@gmail.com)](mailto:aditluhadia@gmail.com)
+<!-- [![Github: masteradit](https://img.shields.io/github/followers/masteradit?label=Follow&style=social)](https://github.com/masteradit)
+[![Github Profile Stars: masteradit](https://img.shields.io/github/stars/masteradit?style=social)](https://github.com/masteradit) -->
 <!--[![Twitter: aditluhadia](https://img.shields.io/twitter/follow/aditluhadia?style=social)](https://twitter.com/aditluhadia)-->
 
 [![Buy me a coffee](https://github.com/masteradit/masteradit/blob/master/images/bmc-button.png)](https://www.buymeacoffee.com/aditluhadia)
