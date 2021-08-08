@@ -54,6 +54,8 @@
 <h3 align="left">☕ Like my work?</h3>
 <p align="left">Consider buying me a coffee:</p>
 
-[![Buy me a coffee](https://github.com/masteradit/masteradit/blob/master/images/bmc-button.png)](https://www.buymeacoffee.com/aditluhadia)
+<!-- [![Buy me a coffee](./images/bmc-button.png)](https://www.buymeacoffee.com/aditluhadia) -->
+
+<a href="https://www.buymeacoffee.com/aditluhadia" target="blank"><img src="./images/bmc-button.png" alt="Buy me a coffee" height="45" /></a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
