@@ -1,5 +1,4 @@
-<h1 align="center">Hi there! I'm Adit Luhadia 👋</h1>
-<h3 align="center">A student and passionate Flutter developer from India</h3>
+![Adit Luhadia](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=200&text=Adit%20Luhadia&desc=A%20student,%20entrepreneur%20and%20passionate%20Flutter%20developer%20from%20India&fontAlignY=34&descAlignY=55)
 
 [![Github Profile Views: masteradit](https://komarev.com/ghpvc/?username=masteradit&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/masteradit)
 [![Github: masteradit](https://img.shields.io/badge/-masteradit-222222?style=flat&logo=Github&logoColor=white&link=https://github.com/masteradit/)](https://github.com/masteradit/)
@@ -11,8 +10,6 @@
 <!-- [![Github: masteradit](https://img.shields.io/github/followers/masteradit?label=Follow&style=social)](https://github.com/masteradit)
 [![Github Profile Stars: masteradit](https://img.shields.io/github/stars/masteradit?style=social)](https://github.com/masteradit) -->
 <!--[![Twitter: aditluhadia](https://img.shields.io/twitter/follow/aditluhadia?style=social)](https://twitter.com/aditluhadia)-->
-
-[![Buy me a coffee](https://github.com/masteradit/masteradit/blob/master/images/bmc-button.png)](https://www.buymeacoffee.com/aditluhadia)
 
 - 🔭 I’m currently working on **[Allmity](https://play.google.com/store/apps/details?id=com.allmityapp.allmityapp), Kalpataru and Sociio apps**
 
@@ -48,6 +45,15 @@
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.apple.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masteradit&show_icons=true&locale=en&layout=compact" alt="masteradit" /></p>
+<h3 align="left">📊 Some stats: </h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masteradit&show_icons=true&locale=en" alt="masteradit" /></p>
+![Adit Luhadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masteradit&show_icons=true&locale=en&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=masteradit&show_icons=true&locale=en&layout=compact&theme=radical)
+
+<h3 align="left">☕ Like my work?</h3>
+<p align="left">Consider buying me a coffee:</p>
+
+[![Buy me a coffee](https://github.com/masteradit/masteradit/blob/master/images/bmc-button.png)](https://www.buymeacoffee.com/aditluhadia)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
