@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my public projects are available on **[Github](https://github.com/masteradit)**
+- 👨‍💻 All of my public projects are available on **[GitHub](https://github.com/masteradit)**
 
 - 📝 I write articles on **[Medium](https://medium.com/@aditluhadia)**
 
